@@ -1,0 +1,17 @@
+name: vertex_demo_venv
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - google-cloud-storage
+    - google-cloud-bigquery
+    - google-cloud-aiplatform
+    - kfp
+    - kfp_pipeline_spec
+    - numpy
+    - pandas
+    - protobuf
+    - scikit_learn
+    - xgboost
