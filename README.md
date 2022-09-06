@@ -11,6 +11,8 @@ This work is licensed under a
 
 # How to get started with Vertex AI & ML Ops
 
+![Vertex AI demo pipeline](img/pipeline.png)
+
 This git repository is storing the source codes for [the blog post of how to get started with Vertex AI & ML Ops]().
 
 ## Repository structure
