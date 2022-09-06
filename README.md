@@ -18,10 +18,13 @@ This git repository is storing the source codes for [the blog post of how to get
 * `enviroment.yml`: Environment file for a conda venv
 
 ## Setting up the demo
-Pre-requisities:
+Requirements:
+```
 - Python 3.8
 - Conda
+```
 
+To run the demo in your GCP project:
 1. Create a GCP project to host the needed resources
    * Enable Storage API & Vertex API
    * Create storage account to host Vertex AI pipeline files
